@@ -1,0 +1,39 @@
+body{
+    color: #545454;
+}
+.my_name{
+    font-size: 30px;
+    margin-top: 0px;
+}
+.last_name{
+    font-weight: normal;
+}
+.my_picture {
+    margin-bottom: 0px;
+}
+.personal_info{
+    text-align: center;
+    width: 210px;
+}
+.date_txt {
+    margin: 2em auto 0px auto;
+    color:blue;
+}
+.date {
+    margin-top: 0px;
+}
+.my_contact {
+    display: inline-block;
+    text-align: left;
+}
+.about_me_and_professional_career{
+    width: 630px;
+}
+.first_row{
+    vertical-align: top;
+    background-color: #f5f5f5;
+}
+li {
+    font-weight: bold;
+    font-size: 20px;
+}

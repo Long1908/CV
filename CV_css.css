@@ -2,7 +2,6 @@ body{
     color: #545454;
 }
 .my_name{
-    font-size: 30px;
     margin-top: 0px;
 }
 .last_name{
@@ -17,7 +16,6 @@ body{
 }
 .date_txt {
     margin: 2em auto 0px auto;
-    color:blue;
 }
 .date {
     margin-top: 0px;
@@ -36,4 +34,11 @@ body{
 li {
     font-weight: bold;
     font-size: 20px;
+}
+
+h2 {
+    color:blue;
+}
+.bolded {
+    color:#3452eb;
 }
